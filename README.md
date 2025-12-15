@@ -1,5 +1,4 @@
 # DSAarrays
-
 DSA on arrays from scratch in python 
 this repository covers all kinds of patterns in arrays 
 1.sorting
